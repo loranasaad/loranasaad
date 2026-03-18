@@ -1,16 +1,18 @@
-## Hi there 👋
+# Loran
 
-<!--
-**loranasaad/loranasaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Software Engineer based in Berlin.
 
-Here are some ideas to get you started:
+Background in architecture and 3D visualization, with experience in
+computational design (Grasshopper). Now building AI tools that solve
+real problems in the built environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing my software engineering training at 42 School Berlin.
+
+---
+
+**Stack**
+&nbsp;&nbsp;   C · C++ · Python · LangChain · LangGraph · ChromaDB · RAG · Streamlit
+
+---
+
+📍 Berlin
